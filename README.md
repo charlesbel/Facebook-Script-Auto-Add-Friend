@@ -1,2 +1,1 @@
-Hi there, appreciate my new facebook script to add friends auto
-Install Tampermonkey : )
+Hi there, appreciate my new facebook script to add friends auto using Tampermonkey :) !
